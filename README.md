@@ -2,7 +2,7 @@
 
 ## 기간 : 9월 1일 ~ 12월 1일 (3개월) ##
 | 순위 | 참여자 이름 | 아이디 | Score |
-| ------------| ------------ | ------------- | :-------------: |
+| :------------: | :------------: | :-------------: | :-------------: |
 | 1 | 박한수 | [outwithansoo](https://github.com/outwithansoo)  | 0 |
 | 2 | 홍준기 | [RedJungi](https://github.com/RedJungi) | 0 |
 | 3 | 최승호 | [codingceo](https://github.com/codingceo)  | 0 |

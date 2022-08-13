@@ -1,7 +1,7 @@
 # 🟩⬜️ Commit_Challenge ⬜🟩
 
 ## 기간 : 9월 1일 ~ 12월 1일 (3개월) ##
-| <span style="color:red"> 순위 | 참여자 이름 | 아이디 | Score |
+| <span style="color:red"> 순위 </span> | 참여자 이름 | 아이디 | Score |
 | :------------: | :------------: | :-------------: | :-------------: |
 | 1 | **박한수** | [outwithansoo](https://github.com/outwithansoo)  | 0 |
 | 2 | **홍준기** | [RedJungi](https://github.com/RedJungi) | 0 |

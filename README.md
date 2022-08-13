@@ -13,4 +13,4 @@
 | 고태현 | [HYEON0425](https://github.com/HYEON0425)  |
 
 <b> 1일 1Commit 할 경우 + 1 점 </b> <br> 
-규칙 : 쓸모없는 Commit 하지 말기
+쓸모없는 Commit은 점수 미포함

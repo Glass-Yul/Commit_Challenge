@@ -2,7 +2,7 @@
 
 
 ## 기간 : 8월 29일 ~ 12월 6일 (<b>100일</b>) ##
-| . | 참여자 이름 | 아이디 | Commit장소 | 공부할 분야 |
+|   | 참여자 이름 | 아이디 | Commit장소 | 공부할 분야 |
 | :------------: | :------------: | :-------------: | :-------------: | :-------------: |
 | 1 | **박한수** | [outwithansoo](https://github.com/outwithansoo) | https://github.com/outwithansoo/Data-structure-Algorithm | 자료구조,알고리즘,앱개발 |
 | 2 | **홍준기** | [RedJungi](https://github.com/RedJungi) | https://github.com/RedJungi/habit-commit | 프론트엔드,파이썬,C++,C |

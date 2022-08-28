@@ -4,8 +4,8 @@
 ## 기간 : 8월 29일 ~ 12월 7일 (100일) ##
 | 순위 | 참여자 이름 | 아이디 | Commit장소 | 공부할 분야 | Score |
 | :------------: | :------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| 1 | **박한수** | [outwithansoo](https://github.com/outwithansoo) | (https://github.com/outwithansoo/Data-structure-Algorithm | 자료구조/알고리즘.앱개발 | 0 |
-| 2 | **홍준기** | [RedJungi](https://github.com/RedJungi) | https://github.com/RedJungi/habit-commit) | 프론트엔드.파이썬.C++.C | 0 |
+| 1 | **박한수** | [outwithansoo](https://github.com/outwithansoo) | https://github.com/outwithansoo/Data-structure-Algorithm | 자료구조/알고리즘.앱개발 | 0 |
+| 2 | **홍준기** | [RedJungi](https://github.com/RedJungi) | https://github.com/RedJungi/habit-commit | 프론트엔드.파이썬.C++.C | 0 |
 | 3 | **최승호** | [codingceo](https://github.com/codingceo) | | 프론트엔드.C | 0 |
 | 4 | **임나연** | [nyaeon](https://github.com/nyaeon) |  | 웹개발(프론트) | 0 |
 | 5 | **이승환** | [dltmdghks1015](https://github.com/dltmdghks1015) | https://github.com/dltmdghks1015 | 알고리즘.C++.C | 0 |

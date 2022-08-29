@@ -6,8 +6,8 @@
 | :------------: | :------------: | :-------------: | :-------------: | :-------------: |
 | 1 | **박한수** | [outwithansoo](https://github.com/outwithansoo) | https://github.com/outwithansoo/Data-structure-Algorithm | 자료구조,알고리즘,앱개발 |
 | 2 | **홍준기** | [RedJungi](https://github.com/RedJungi) | https://github.com/RedJungi/habit-commit | 프론트엔드,파이썬,C++,C |
-| 3 | **최승호** | [codingceo](https://github.com/codingceo) | | 프론트엔드,C |
-| 4 | **임나연** | [nyaeon](https://github.com/nyaeon) |  | 웹개발(프론트) | 
+| 3 | **최승호** | [codingceo](https://github.com/codingceo) | https://github.com/codingceo/everyday-commit | 프론트엔드,C |
+| 4 | **임나연** | [nyaeon](https://github.com/nyaeon) | https://github.com/nyaeon/commit-challenge | 웹개발(프론트) | 
 | 5 | **이승환** | [dltmdghks1015](https://github.com/dltmdghks1015) | https://github.com/dltmdghks1015/make-habit-challenge | 알고리즘,C++,C | 
 | 6 | **신대철** | [DaeChul00](https://github.com/DaeChul00) | https://github.com/DaeChul00/habit-challenge | C++,C#,JAVA | 
 | 7 | **김창건** | [DirtyStyle](https://github.com/DirtyStyle) | https://github.com/DirtyStyle/Daily-Algorithm | 자료구조/알고리즘. C++,C# | 

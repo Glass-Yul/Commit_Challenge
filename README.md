@@ -20,8 +20,9 @@
 <b> 1일 1커밋 할 경우 + 1 점 </b> <br> 
 매주 일요일 종합하여 순위 매겨질 예정 쓸모없는 Commit은 점수 미포함! <br>
 
+<img width="878" alt="스크린샷 2022-09-13 오후 9 45 43" src="https://user-images.githubusercontent.com/92626903/189905738-7c6f0808-87ec-41fd-97ac-40b278193dde.png">
 
-<img width="889" alt="스크린샷 2022-09-05 오전 10 25 31" src="https://user-images.githubusercontent.com/92626903/188342876-19156591-8457-460d-8adf-955b5a06f304.png">
+
 
 
 

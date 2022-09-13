@@ -13,7 +13,7 @@
 | 7 | **김창건** | [DirtyStyle](https://github.com/DirtyStyle) | https://github.com/DirtyStyle/Daily-Algorithm | 자료구조/알고리즘. C++,C# | 
 | 8 | **고태현** | [HYEON0425](https://github.com/HYEON0425) | https://github.com/HYEON0425/100-commit-challenge | 알고리즘,JAVA,앱개발| 
 | 9 | **권세안** | [Sean1016](https://github.com/Sean1016) | https://github.com/Sean1016/commit_test | 알고리즘,JAVA | 
-| 10 | **최유리** | [Sean1016](https://github.com/yul-coding) |       | JAVA | 
+| 10 | **최유리** | [yul-coding](https://github.com/yul-coding) |       | JAVA | 
 
 
 
